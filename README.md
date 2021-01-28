@@ -1,3 +1,3 @@
 # Hello. I'm Turnerj
 
-_I don't know what to put here..._
+I love writing open source software and I'd like to keep writing more. I've worked on everything from [database interfaces](https://github.com/TurnerSoftware/MongoFramework), [web crawlers](https://github.com/TurnerSoftware/InfinityCrawler), [caching systems](https://github.com/TurnerSoftware/CacheTower) to [optimized algorithms](https://github.com/Turnerj/Quickenshtein), [DDNS tools](https://github.com/TurnerSoftware/DDNS4Me) and [parsing sitemaps](https://github.com/TurnerSoftware/SitemapTools). I've also contributed to a variety of other open source projects including [Forem](https://github.com/forem/forem), [Schema.NET](https://github.com/RehanSaeed/Schema.NET) and [ImageSharp](https://github.com/SixLabors/ImageSharp/).
