@@ -13,6 +13,8 @@ _aka. James Turner - a programmer and entrepreneur with a love of cars, music an
 [![Robots Exclusion Tools](https://repo2image.turnerj.com/api/TurnerSoftware/RobotsExclusionTools/image.png)](https://github.com/TurnerSoftware/RobotsExclusionTools)
 [![DinoDNS](https://repo2image.turnerj.com/api/TurnerSoftware/DinoDNS/image.png)](https://github.com/TurnerSoftware/DinoDNS)
 [![Build Versioning](https://repo2image.turnerj.com/api/TurnerSoftware/BuildVersioning/image.png)](https://github.com/TurnerSoftware/BuildVersioning)
+[![Vibrancy](https://repo2image.turnerj.com/api/TurnerSoftware/Vibrancy/image.png)](https://github.com/TurnerSoftware/Vibrancy)
+[![Borderless1942](https://repo2image.turnerj.com/api/Turnerj/Borderless1942/image.png)](https://github.com/Turnerj/Borderless1942)
 
 ## Support My OSS Work
 
