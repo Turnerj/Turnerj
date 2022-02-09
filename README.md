@@ -15,6 +15,8 @@ _aka. James Turner - a programmer and entrepreneur with a love of cars, music an
 [![Build Versioning](https://repo2image.turnerj.com/TurnerSoftware/BuildVersioning.png)](https://github.com/TurnerSoftware/BuildVersioning)
 [![Vibrancy](https://repo2image.turnerj.com/TurnerSoftware/Vibrancy.png)](https://github.com/TurnerSoftware/Vibrancy)
 [![Borderless1942](https://repo2image.turnerj.com/Turnerj/Borderless1942.png)](https://github.com/Turnerj/Borderless1942)
+[![Repo2Image](https://repo2image.turnerj.com/Turnerj/Repo2Image.png)](https://github.com/Turnerj/Repo2Image)
+[![LevenshteinBenchmarks](https://repo2image.turnerj.com/Turnerj/LevenshteinBenchmarks.png)](https://github.com/Turnerj/LevenshteinBenchmarks)
 
 ## Support My OSS Work
 
