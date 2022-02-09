@@ -4,17 +4,17 @@ _aka. James Turner - a programmer and entrepreneur with a love of cars, music an
 
 ## My Projects
 
-[![Cache Tower](https://repo2image.turnerj.com/api/TurnerSoftware/CacheTower/image.png)](https://github.com/TurnerSoftware/CacheTower)
-[![MongoFramework](https://repo2image.turnerj.com/api/TurnerSoftware/MongoFramework/image.png)](https://github.com/TurnerSoftware/MongoFramework)
-[![Infinity Crawler](https://repo2image.turnerj.com/api/TurnerSoftware/InfinityCrawler/image.png)](https://github.com/TurnerSoftware/InfinityCrawler)
-[![Quickenshtein](https://repo2image.turnerj.com/api/Turnerj/Quickenshtein/image.png)](https://github.com/Turnerj/Quickenshtein)
-[![DDNS4Me](https://repo2image.turnerj.com/api/TurnerSoftware/DDNS4Me/image.png)](https://github.com/TurnerSoftware/DDNS4Me)
-[![Sitemap Tools](https://repo2image.turnerj.com/api/TurnerSoftware/SitemapTools/image.png)](https://github.com/TurnerSoftware/SitemapTools)
-[![Robots Exclusion Tools](https://repo2image.turnerj.com/api/TurnerSoftware/RobotsExclusionTools/image.png)](https://github.com/TurnerSoftware/RobotsExclusionTools)
-[![DinoDNS](https://repo2image.turnerj.com/api/TurnerSoftware/DinoDNS/image.png)](https://github.com/TurnerSoftware/DinoDNS)
-[![Build Versioning](https://repo2image.turnerj.com/api/TurnerSoftware/BuildVersioning/image.png)](https://github.com/TurnerSoftware/BuildVersioning)
-[![Vibrancy](https://repo2image.turnerj.com/api/TurnerSoftware/Vibrancy/image.png)](https://github.com/TurnerSoftware/Vibrancy)
-[![Borderless1942](https://repo2image.turnerj.com/api/Turnerj/Borderless1942/image.png)](https://github.com/Turnerj/Borderless1942)
+[![Cache Tower](https://repo2image.turnerj.com/TurnerSoftware/CacheTower.png)](https://github.com/TurnerSoftware/CacheTower)
+[![MongoFramework](https://repo2image.turnerj.com/TurnerSoftware/MongoFramework.png)](https://github.com/TurnerSoftware/MongoFramework)
+[![Infinity Crawler](https://repo2image.turnerj.com/TurnerSoftware/InfinityCrawler.png)](https://github.com/TurnerSoftware/InfinityCrawler)
+[![Quickenshtein](https://repo2image.turnerj.com/Turnerj/Quickenshtein.png)](https://github.com/Turnerj/Quickenshtein)
+[![DDNS4Me](https://repo2image.turnerj.com/TurnerSoftware/DDNS4Me.png)](https://github.com/TurnerSoftware/DDNS4Me)
+[![Sitemap Tools](https://repo2image.turnerj.com/TurnerSoftware/SitemapTools.png)](https://github.com/TurnerSoftware/SitemapTools)
+[![Robots Exclusion Tools](https://repo2image.turnerj.com/TurnerSoftware/RobotsExclusionTools.png)](https://github.com/TurnerSoftware/RobotsExclusionTools)
+[![DinoDNS](https://repo2image.turnerj.com/TurnerSoftware/DinoDNS.png)](https://github.com/TurnerSoftware/DinoDNS)
+[![Build Versioning](https://repo2image.turnerj.com/TurnerSoftware/BuildVersioning.png)](https://github.com/TurnerSoftware/BuildVersioning)
+[![Vibrancy](https://repo2image.turnerj.com/TurnerSoftware/Vibrancy.png)](https://github.com/TurnerSoftware/Vibrancy)
+[![Borderless1942](https://repo2image.turnerj.com/Turnerj/Borderless1942.png)](https://github.com/Turnerj/Borderless1942)
 
 ## Support My OSS Work
 
