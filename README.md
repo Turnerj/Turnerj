@@ -2,7 +2,7 @@
 
 _aka. James Turner - a programmer and entrepreneur with a love of cars, music and technology_
 
-## My Projects
+## Projects
 
 [![Cache Tower](https://repo2image.turnerj.com/TurnerSoftware/CacheTower.png)](https://github.com/TurnerSoftware/CacheTower)
 [![MongoFramework](https://repo2image.turnerj.com/TurnerSoftware/MongoFramework.png)](https://github.com/TurnerSoftware/MongoFramework)
@@ -17,6 +17,10 @@ _aka. James Turner - a programmer and entrepreneur with a love of cars, music an
 [![Borderless1942](https://repo2image.turnerj.com/Turnerj/Borderless1942.png)](https://github.com/Turnerj/Borderless1942)
 [![Repo2Image](https://repo2image.turnerj.com/Turnerj/Repo2Image.png)](https://github.com/Turnerj/Repo2Image)
 [![LevenshteinBenchmarks](https://repo2image.turnerj.com/Turnerj/LevenshteinBenchmarks.png)](https://github.com/Turnerj/LevenshteinBenchmarks)
+
+### As a Core Contributor
+
+[![Schema.NET](https://repo2image.turnerj.com/RehanSaeed/Schema.NET.png)](https://github.com/RehanSaeed/Schema.NET)
 
 ## Support My OSS Work
 
